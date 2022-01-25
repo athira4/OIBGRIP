@@ -1,4 +1,5 @@
 # Landing Page Of Headphones🎧
+This is a simple landing page of Headphone.
 
 ## Preview:
 ![Landing-page-Screenshot ](https://user-images.githubusercontent.com/81153926/150289322-f9e45ae2-63fe-4aac-9853-fd7146f0e438.png)
