@@ -2,9 +2,9 @@
 This is a template to my portfolio 
 
 ## Preview
-
+### Black Theme:
 ![Screenshot-1](https://user-images.githubusercontent.com/81153926/150308932-c443b57a-9fe7-4c48-a005-ae8d1fddee35.png)
-
+### White Theme:
 ![Screenshotwhitw](https://user-images.githubusercontent.com/81153926/150308979-7cdc214f-6f0e-4db8-9f3a-043d22f82f62.png)
 
 ## Why do you need a portfolio💡
@@ -37,7 +37,7 @@ This is a template to my portfolio
 
 
 ### Services
-- Has few Servicesdone by the user.
+- Has few Services done by the user.
 - Also has a drag down template with the icon.
 
 ### Portfolio
